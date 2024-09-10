@@ -1,7 +1,6 @@
 # Laravel10とMySQLで作りながら学ぶWebアプリケーションの基本 | Udemy
 <a href="https://www.udemy.com/share/109Vmi3@ZlCuBvkrF0Ju38pkwOxzhBUGJ8uvNIjI8QAPrAMXgR4IBPc-zEo01nnK9M_AimKe4w==/">リンク</a>
 
-
 ## ブランチ対応表
 各レクチャーごとにブランチを切っているため、適宜ブランチを切り替えながら確認したいソースコードを御覧ください。
 
